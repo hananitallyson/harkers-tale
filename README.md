@@ -2,7 +2,6 @@
   <img src="HARKERS%20TALE%20LOGO.jpg" alt="Harker's Tale" />
 </p>
 
-
 ## Exploration
 
 Move through the map by rolling a d6. Each tile may contain a different event:
@@ -37,6 +36,8 @@ All other dice contribute to damage but cannot trigger misses or Critical Hits.
 ### Armor
 
 Armor reduces incoming damage by its Armor Rating (AR). Damage cannot go below 0. Heavier armor provides greater protection.
+
+**Critical Hits ignore armor** and deal damage without subtracting the target's AR.
 
 ### Defend
 
