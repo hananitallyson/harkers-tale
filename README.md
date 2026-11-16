@@ -1,6 +1,23 @@
- <p align="center">
+<p align="center">
   <img src="HARKERS%20TALE%20LOGO.jpg" alt="Harker's Tale" />
 </p>
+
+## Running the Game
+
+**Requirements**
+- GCC
+
+**Compile**
+
+```bash
+gcc -std=c99 -Wall -Wextra -pedantic src/*.c -o game
+```
+
+**Run**
+
+```bash
+./game
+```
 
 ## Exploration
 
