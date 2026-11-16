@@ -1,5 +1,7 @@
-# HARKER'S TALE
-*A Player's Guide*
+ <p align="center">
+  <img src="HARKERS%20TALE%20LOGO.jpg" alt="Harker's Tale" />
+</p>
+
 
 ## Exploration
 
